@@ -22,7 +22,7 @@ updates:
     reviewers:
       - 'mia-riezebos'
 
-  - package-ecosystem: npm # See documentation for possible values
+  - package-ecosystem: pnpm # See documentation for possible values
     directory: '/' # Location of package manifests
     schedule:
         day: saturday

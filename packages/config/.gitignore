@@ -1,9 +1,0 @@
-**/.dist
-**/dist
-
-**/.tsup
-**/tsup
-
-**/legacy
-
-**/node_modules
