@@ -2,13 +2,12 @@
 
 A collective venture aiming to make knowledge, experience and skill accessible for young artists..
 
-## about
+## contact
 
+Get in touch thru info@canvas.ac or mia@canvas.ac
 <!-- TODO
     Write a bio about canvas and its mission.
  -->
-
-lorem ipsum dolor sit amet.
 
 ## projects
 
