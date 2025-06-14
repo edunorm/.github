@@ -1,6 +1,6 @@
 # canvas
 
-A collective venture aiming to make knowledge, experience and skill accessible for young artists..
+A collective venture aiming to make knowledge, experience and skill accessible for young artists.
 
 ## contact
 
