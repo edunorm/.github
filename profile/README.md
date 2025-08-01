@@ -4,7 +4,7 @@ A company selling courses and educational resources for Security.
 
 ## contact
 
-Get in touch thru info@edunorm.nl or mia@edunorm.nl
+Get in touch through info@edunorm.nl or mia@edunorm.nl
 <!-- TODO
     Write a bio about Edunorm and its mission.
  -->

@@ -1,6 +1,6 @@
 # projects
 
-[canvas](https://canvas.ac) is constantly working on interesting, creative projects. Below you will find a complete list of everything that [canvas](https://canvas.ac) has worked on or contributed to.
+[Edunorm](https://edunorm.nl) is constantly working on interesting, creative projects. Below you will find a complete list of everything that [Edunorm](https://edunorm.nl) has worked on or contributed to.
 
 ## Table of Contents
 
@@ -11,6 +11,6 @@
 
 ## Clients
 
-Other than first-party projects, canvas loves working with clients to create innovative solutions for their projects.
+Other than first-party projects, Edunorm loves working with clients to create innovative solutions for their projects.
 
 ## Open Source Contributions
