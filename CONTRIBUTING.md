@@ -1,4 +1,4 @@
-# Welcome to the [canvas](https://canvas.ac) Contributing Guide
+# Welcome to the [Edunorm](https://edunorm.nl) Contributing Guide
 
 Thank you for investing your time in contributing to our project!
 
@@ -64,7 +64,7 @@ When you're finished with the changes, create a pull request, also known as a PR
 
 ### Your PR is merged!
 
-Congratulations :tada::tada: canvas thanks you :sparkles:.
+Congratulations :tada::tada: Edunorm thanks you :sparkles:.
 
 Once your PR is merged, your contributions will be credited in the [README.md](/README.md)
 
