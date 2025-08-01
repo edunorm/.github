@@ -1,16 +1,16 @@
-# canvas
+# Edunorm
 
-A collective venture aiming to make knowledge, experience and skill accessible for young artists.
+A company selling courses and educational resources for Security.
 
 ## contact
 
-Get in touch thru info@canvas.ac or mia@canvas.ac
+Get in touch thru info@edunorm.nl or mia@edunorm.nl
 <!-- TODO
-    Write a bio about canvas and its mission.
+    Write a bio about Edunorm and its mission.
  -->
 
 ## projects
 
-[canvas](https://canvas.ac) is constantly working on interesting, creative things. You can find an extensive list [here](./PROJECTS.md).
+[Edunorm](https://edunorm.nl) is constantly working on interesting, creative things. You can find an extensive list [here](./PROJECTS.md).
 
 [More Projects...](./PROJECTS.md)
